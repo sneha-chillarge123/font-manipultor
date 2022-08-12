@@ -1,0 +1,30 @@
+body{
+    background-image: url("background.png");
+}
+
+#div1{
+    background-color:rgb(162, 0, 171);
+    color: azure;
+    border-radius: 20px;
+    font-family: 'Amatic SC', cursive;
+    font-size: x-large;
+    
+}
+
+canvas{
+    border: 7px;
+    border-style: double;
+    border-color: purple;
+}
+
+#footer{
+    background-color: rgb(162, 0, 171);
+    color: aliceblue;
+    text-align:center;
+    position:fixed;
+    bottom:0;
+    width: 100%;
+    font-family: 'Libre Franklin', sans-serif;
+
+    
+}
